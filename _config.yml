@@ -1,4 +1,4 @@
-name: Mindful Naturals
+name: All B-School Happy Hours
 favicon: null
 layout_spectrum: 0.6748520412947983
 typography_spectrum: 0.790129809640348
@@ -25,4 +25,39 @@ color:
   lightness: 0.7303985492326319
   saturation: 0.24161839648149908
   rhythmicContrast: 0.3871612867806107
-purpose: []
+purpose:
+  - type: external
+    url: 'http://all-bschool.eventbrite.com'
+    label: Upcoming Happy Hours
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0b375e-0973-4052-80dd-abd16d551bb1.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0b375e-0973-4052-80dd-abd16d551bb1.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: All B-School Happy Hours
+description: Join alums from top business schools for happy hour in Los Angeles
+author:
+  name: All B-School Happy Hours
+  email: happyhour@haasla.com
+url: 'https://thegrid.ai/allbschool'
+github: true
